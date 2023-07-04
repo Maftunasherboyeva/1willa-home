@@ -1,0 +1,35 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+a {
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+}
+.navbar {
+  background: #3a0ca3;
+  height: 40px;
+}
+.nav {
+  margin: 0 auto;
+  width: 1600px;
+  height: 40px;
+  display: flex;
+  gap: 902px;
+  background: #0ca39e;
+  align-items: center;
+  justify-content: center;
+}
+.tell-email ul {
+  display: flex;
+  gap: 50px;
+  align-items: center;
+  justify-content: center;
+}
+.nav a {
+  color: white;
+}
